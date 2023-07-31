@@ -1,0 +1,27 @@
+%............comments............
+%............comments............
+%............comments............
+%............comments............
+%............comments............
+%
+% attributes count = 2
+% vectors count = 11
+%
+% Edit the attribute names (attrib_1, attrib_2, ...) in this text box and then save.
+%
+@relation xxxxxxxxxxx
+@attribute attrib_1 numeric
+@attribute attrib_2 numeric
+@attribute class {0, 1}
+@data
+-565.6915,593.7871,1
+-504.54797,-742.49976,1
+90.5509,-241.01398,1
+900.822,957.3253,1
+506.06836,684.699,1
+973.41455,894.48425,1
+-827.36224,873.0426,0
+-987.8488,679.60876,0
+-241.23792,-468.9242,1
+-314.18658,-981.85315,1
+-494.18497,-327.971,1
